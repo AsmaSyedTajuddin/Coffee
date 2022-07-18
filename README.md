@@ -1,6 +1,8 @@
 # Coffee
 dataset from Kaggle
 
+<img width="1000" alt="Screenshot 2022-07-18 at 18 13 50" src="https://user-images.githubusercontent.com/100385953/179555663-075d4f58-68a0-478d-bf21-7a60037ea8bb.png">
+
 
 Three CSV files are provided:
 
